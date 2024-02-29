@@ -1,0 +1,39 @@
+*{ margin: 0; padding: 0;}
+
+.sayt{
+    width: 960px;
+    margin: 0 auto;
+    border: 1px solid red;
+}
+
+.header{
+    height: 80px;
+    background: yellow;
+    border-bottom: 3px solid orange;
+}
+.header{
+    text-align: center;
+    line-height: 80px;
+    text-transform: uppercase ;
+}
+
+.content{
+    padding: 0px 5px ;
+    border-bottom: 3px solid yellow;
+}
+.content{
+    font-size: 18pt;
+    line-height: 1.5;
+    text-align: justify;
+    text-indent: 50px;
+}
+
+.content img{
+    width: 300px;
+    display: block; margin: 0 auto ;
+}
+.footer{
+    height: 50px;
+    background: black ;
+    color: white;
+}

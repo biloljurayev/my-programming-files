@@ -1,0 +1,9 @@
+
+div.main
+{
+    background: lightblue;
+    border: 1px solid black;
+    width: 500px;
+    height: 800px;
+    margin: auto;
+}
